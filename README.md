@@ -1,2 +1,2 @@
-# ABtest-Report
-A simple report about AB-test
+# What's this?
+It’s a simple report about AB-test.
